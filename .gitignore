@@ -1,1 +1,6 @@
 .DS_Store
+_external/
+_external/
+_data/
+locaTE_data/
+locaTE_output/
